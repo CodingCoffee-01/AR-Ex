@@ -1,3 +1,3 @@
 # CodingCoffee AR-Examples from https://github.com/stemkoski/AR-Examples
 
-demo url: https://chiyanglin-astar.github.io/AR_EX/
+demo url: https://codingcoffee-01.github.io/AR-Ex/
